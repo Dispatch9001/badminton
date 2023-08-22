@@ -13,7 +13,7 @@
 title: Badminton
 
 # Your name to show in the footer
-author: Sam
+author: Sam Weisbaum
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,8 +21,12 @@ author: Sam
 
 navbar-links:
 #  Information: "info"
-  FAQ: "faq"
+#  FAQ: "faq"
   Teams: "teams"
+  Draws: 
+    - First Round: "draw1"
+    - Second Round: "draw2"
+  Rules: "rules"
 #  Other:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
