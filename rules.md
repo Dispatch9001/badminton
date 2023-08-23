@@ -40,7 +40,7 @@ Intervals and Changed of Ends
 
 **1.** A 2-minute interval between each game is allowed.
 
-**2. **Teams switch sides at the end of each game.
+**2.** Teams switch sides at the end of each game.
 
 **3.** In the third game, teams switch sides when the leading score
 reaches 8 points.
