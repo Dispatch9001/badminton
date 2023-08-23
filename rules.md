@@ -4,7 +4,9 @@ title: Rules
 subtitle: The rules for the competition
 ---
 
-### Start of play
+### Rules for Badminton (hey)
+
+Start of Play
 
 **1.** Before starting the game, the opponents toss a coin with the
 winner choosing: (a) to serve first/to receive first, or (b) the side
@@ -17,15 +19,11 @@ Scoring System
 at 30 points). Each game starts at 0-0. If the match goes to the third
 game, that third game will be played to 15.
 
-**2.** Every time there is a serve --there is a point scored.
+**2.** Every time there is a serve -- there is a point scored.
 
--   a\. A rally is won when a shuttle is hit over the net and onto the
-    floor of the opponent\'s court.
+-   a\. A rally is won when a shuttle is hit over the net and onto the floor of the opponent\'s court.
 
--   b\. A rally is lost if the shuttle is hit into the net, or over the
-    net but outside the opponent\'s court. A rally is also lost if
-    the shuttle touches the player\'s clothing or body, or if it is hit
-    before it crosses over the net.
+-   b\. A rally is lost if the shuttle is hit into the net, or over the net but outside of the opponent\'s court. A rally is also lost if the shuttle touches the player\'s clothing or body, or if it is hit before it crosses over the net.
 
 **3.** The side winning a rally adds a point to its score.
 
@@ -38,7 +36,7 @@ game.
 
 Intervals and Changed of Ends
 
-**1.** A 2-minute interval between each game is allowed.
+**1.** A 2 minute interval between each game is allowed.
 
 **2.** Teams switch sides at the end of each game.
 
@@ -84,17 +82,13 @@ considered ready.
 
 **12.** During the serve, it is a fault if:
 
--   \(a\) The shuttle is contacted above the server's waist or the
-    racket head is above any part of the hand.
+-   \(a\) The shuttle is contacted above the server's waist or the racket head is above any part of the hand.
 
--   \(b\) The shuttle does not fall into the diagonally opposite service
-    court.
+-   \(b\) The shuttle does not fall into the diagonally opposite service court.
 
--   \(c\) Some part of both feet of the server and receiver are not in
-    contact with the appropriate court until the shuttle is contacted by
-    the server. Touching a line with the foot is considered out of the
-    court. \*If players commit an error in the service court, the error
-    is corrected when the mistake is discovered.
+-   \(c\) Some part of both feet of the server and receiver are not in contact with the appropriate court until the shuttle is contacted by the server. Touching a line with the foot is considered out of the court. 
+
+If players commit an error in the service court, the error is corrected when the mistake is discovered.
 
 ### General Play
 
@@ -106,35 +100,26 @@ way around, except for serves where you use the shorter back lines.
 
 **3.** Faults Include:
 
--   \(a\) The shuttle fails to pass over the net or lands outside the
-    boundary line.
+-   \(a\) The shuttle fails to pass over the net or lands outside the boundary line.
 
--   \(b\) The shuttle contacts the walls, ceiling, player or player's
-    clothes.
+-   \(b\) The shuttle contacts the walls, ceiling, player or player's clothes.
 
 -   \(c\) The shuttle passes through or under the net.
 
 -   \(d\) The player touches the net.
 
--   \(e\) The player reaches across the net to contact the shuttle
-    (following through across the net is allowed).
+-   \(e\) The player reaches across the net to contact the shuttle (following through across the net is allowed).
 
--   \(f\) The shuttle is hit more than once or comes to rest or is
-    momentarily caught on the racquet and thrown.
+-   \(f\) The shuttle is hit more than once or comes to rest or is momentarily caught on the racquet and thrown.
 
--   \(g\) The player obstructs an opponent or invades the opponent's
-    court.
+-   \(g\) The player obstructs an opponent or invades the opponent's court.
 
--   \(h\) A player is hit by the shuttle whether the player is standing
-    inside or outside the court boundaries.
+-   \(h\) A player is hit by the shuttle whether the player is standing inside or outside the court boundaries.
 
--   \(i\) It is illegal for a player to hold up his/her racquet to block
-    a return at the net. However, he/she may hold it up to protect
-    his/her face or if he/she is returning it from within the
-    appropriate receiving court.
+-   \(i\) It is illegal for a player to hold up his/her racquet to block a return at the net. However, he/she may hold it up to protect his/her face or if he/she is returning it from within the appropriate receiving court.
 
-**4.** Any accidental hindrance is considered a "let"and there will be a
-re-serve. For example, a player or shuttle from another game entering
+**4.** Any accidental hindrance is considered a "let" and there will be
+a re-serve. For example, a player or shuttle from another game entering
 the court.
 
 They can miss the serve 3 times before it gets changed to the other team
