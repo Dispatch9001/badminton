@@ -24,8 +24,8 @@ navbar-links:
 #  FAQ: "faq"
   Teams: "teams"
   Draws: 
-    - First Round: "draw1"
-    - Second Round: "draw2"
+    - First Round: "draw/firstround"
+    - Second Round: "draw/secondround"
   Rules: "rules"
 #  Other:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -170,7 +170,7 @@ footer-hover-col: "#0085A1"
 #gtag: "G-XXXXXXXXXX"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+cloudflare_analytics: "hehehe"
 
 # Google Tag Manager ID
 #gtm: ""
