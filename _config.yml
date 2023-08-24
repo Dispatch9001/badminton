@@ -27,6 +27,9 @@ navbar-links:
     - First Round: "draw/firstround"
     - Second Round: "draw/secondround"
   Rules: "rules"
+  Results:
+    - First Round: "results/firstround"
+    - Second Round: "results/secondround"
 #  Other:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -107,7 +110,7 @@ url-pretty:
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
