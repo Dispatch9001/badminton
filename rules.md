@@ -8,7 +8,7 @@ subtitle: The rules for the competition
 
 Start of Play
 
-**1.** Before starting the game, the opponents toss a coin with the
+**1.** Before starting the game, the opponents play scissors-paper-rock with the
 winner choosing: (a) to serve first/to receive first, or (b) the side
 
 **2.** In subsequent games, the winning side serves first.
