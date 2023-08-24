@@ -22,11 +22,11 @@ author: Sam Weisbaum
 navbar-links:
 #  Information: "info"
 #  FAQ: "faq"
+  Rules: "rules"
   Teams: "teams"
   Draws: 
     - First Round: "draw/firstround"
     - Second Round: "draw/secondround"
-  Rules: "rules"
   Results:
     - First Round: "results/firstround"
     - Second Round: "results/secondround"
