@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Draw
-subtitle: The draw for the the first round
+subtitle: The draw for the comp
 ---
 
 **TIP:** Use `CTRL` (or `⌘`) + `F` to search your team

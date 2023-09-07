@@ -24,12 +24,14 @@ navbar-links:
 #  FAQ: "faq"
   Rules: "rules"
   Teams: "teams"
-  Draws: 
-    - First Round: "draw/firstround"
-    - Second Round: "draw/secondround"
-  Results:
-    - First Round: "results/firstround"
-    - Second Round: "results/secondround"
+  Draw: "draw/firstround"
+  Results: "results/firstround"
+#  Draws: 
+#    - First Round: "draw/firstround"
+#    - Second Round: "draw/secondround"
+#  Results:
+#    - First Round: "results/firstround"
+#    - Second Round: "results/secondround"
 #  Other:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
